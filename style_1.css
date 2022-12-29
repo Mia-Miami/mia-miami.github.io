@@ -199,7 +199,6 @@
         width: 100%;
         min-height: calc(100vh - 100px);
         margin: auto;
-        padding: 0 40px;
         position: relative;
     }
 
@@ -237,7 +236,7 @@
 
     .content {    
         position: relative;
-        padding: 0 ;
+        padding: 0 40 ;
         margin: 0 ;
         min-height: calc(100vh - 100px);
         background-color:
