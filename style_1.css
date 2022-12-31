@@ -236,7 +236,7 @@
 
     .content {    
         position: relative;
-        padding: 0 40 ;
+        padding: 0 40px;
         margin: 0 ;
         min-height: calc(100vh - 100px);
         background-color:

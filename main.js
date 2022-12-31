@@ -1,8 +1,5 @@
-const myHeading = document.querySelector("h1");
-myHeading.textContent = "Good luck in the New Year!";
-
 const myImage = document.getElementById("About_us");
-//debugger;
+debugger;
 
 myImage.onclick = () => {
   const mySrc = myImage.getAttribute("src");
