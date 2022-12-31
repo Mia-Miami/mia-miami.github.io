@@ -1,5 +1,5 @@
 const myHeading = document.querySelector("h1");
-myHeading.textContent = "Fuck New Year!";
+myHeading.textContent = "Good luck in the New Year!";
 
 const myImage = document.getElementById("About_us");
 //debugger;
